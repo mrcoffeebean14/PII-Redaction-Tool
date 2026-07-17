@@ -1,0 +1,5 @@
+python-docx
+spacy
+presidio-analyzer
+faker
+pywin32
