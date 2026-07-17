@@ -19,7 +19,7 @@ This tool detects and redact personally identifiable information (PII) from Word
 ### 1. Execute Redaction
 Run the following command to redact a document:
 ```bash
-python src/redact.py --input "Red Herring Prospectus.docx" --output "Redacted_Red_Herring_Prospectus.docx"
+python src/redact.py --input "Red Herring Prospectus.docx" --output "Redacted_Red_Herring_Prospectus_SDE.docx"
 ```
 
 Command options:
